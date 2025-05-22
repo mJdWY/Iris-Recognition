@@ -15,5 +15,14 @@ This project is a deep learning-based iris recognition system developed using Co
 
 ---
 
-## 📂 Folder Structure
-
+#### install this libraries:
+- numpy
+- keras
+- sklearn
+- opencv
+- glob
+- tensorflow
+### To run this project you will need to:
+1. Download the CASIA-Iris-Thousand dataset from this link [CASIA-Iris-Thousand]( http://www.cbsr.ia.ac.cn/china/Iris%20Databases%20CH.asp)
+2. run iris_extreaction_2 Change your directory names that contain the dataset to the name in the python and notebook files
+3. Open iris_classification_2.ipynb and run it's cells.
